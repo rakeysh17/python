@@ -7,4 +7,8 @@ def print_board(board):
         print "".join(row)
 board[3][4]='X'
 print board
-print print_board(board)   
+print print_board(board) 
+
+print "ram2"
+print("ram")
+  
